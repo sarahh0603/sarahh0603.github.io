@@ -1,17 +1,17 @@
-primary_name: "Jasper"
-secondary_name: "Zongrong Li"
+primary_name: "Sarah"
+secondary_name: "Huang"
 navbar_name: "Homepage"
 
 positions:
-- logo: /assets/images/badges/Texas_A&M_University_seal.svg  # Logo is optional
-  name: Ph.D. in Geography
+- logo: /assets/images/badges/Shanghai_American_School_seal.svg  # Logo is optional
+  name: Student
 # - name: Position 2 without logo
 
 
-email: "zongrong@tamu.edu"
+email: "sarah.huang2009@outlook.com"
 cv_link: /assets/CV/cv.pdf  #IDK
-gscholar: AUIr2dIAAAAJ  # Google Scholar ID
-github: Jasper0122
+gscholar: https://scholar.google.com/citations?user=fh141jAAAAAJ&hl=en  # Google Scholar ID
+github: sarahh0603
 twitter: Jasperli0122  # Do not include the '@' symbol
 wechat_qrcode: /assets/images/etc/wechat.jpg
 wechat_prompt: >- 
