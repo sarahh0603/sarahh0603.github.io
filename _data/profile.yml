@@ -5,10 +5,10 @@ navbar_name: "Homepage"
 positions:
 - logo: /assets/images/badges/Shanghai_American_School_seal.svg  # Logo is optional
   name: Student
-# - name: Position 2 without logo
+# - name: 
 
 
-email: "sarah.huang2009‘@’outlook.com"
+email: "sarah.huang2009@outlook.com"
 cv_link: /assets/CV/cv.pdf  #IDK
 gscholar: https://scholar.google.com/citations?user=fh141jAAAAAJ&hl=en  # Google Scholar ID
 github: sarahh0603
@@ -83,7 +83,7 @@ education:
   logo: /assets/images/badges/Texas_A&M_University_seal.svg
   dept: G12
   position: 
-  date: Aug. 2019 - present (Expected)
+  date: Aug. 2019 - present 
 - name: 
   logo: 
   position: 
@@ -119,15 +119,15 @@ experience:
   position: Computer Science
   date: Jul. 2024
 
-- name: City of Hope
-  logo: /assets/images/badges/COH.png
-  position: Data Science Intern
-  date: Jan. 2024 - Sep. 2024
+- name: 
+  logo: 
+  position: 
+  date: 
 
-- name: The Hong Kong Polytechnic University
-  logo: /assets/images/badges/PolyU.svg_.png
-  position: Research Assistant
-  date: Sep. 2023 - Aug. 2024
+- name: 
+  logo: 
+  position: 
+  date: 
 
 - name: 
   logo: 
