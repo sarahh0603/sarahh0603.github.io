@@ -12,7 +12,7 @@ email: "sarah.huang2009@outlook.com"
 cv_link: /assets/CV/cv.pdf  #IDK
 gscholar: https://scholar.google.com/citations?user=fh141jAAAAAJ&hl=en  # Google Scholar ID
 github: sarahh0603
-twitter: Jasperli0122  # Do not include the '@' symbol
+twitter:   # Do not include the '@' symbol
 wechat_qrcode: /assets/images/etc/wechat.jpg
 wechat_prompt: >- 
   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past), and your <strong>reason</strong> for adding me on WeChat. Thanks!
@@ -79,45 +79,45 @@ portrait_caption: >-
   Serve the cat, rule the world.
 
 education:
-- name: Texas A&M University
+- name: Shanghai American School
   logo: /assets/images/badges/Texas_A&M_University_seal.svg
-  dept: Department of Geography, College of Arts & Sciences
-  position: Ph.D. in Geography
-  date: Aug. 2025 - May. 2029 (Expected)
-- name: University of Southern California
+  dept: G12
+  position: 
+  date: Aug. 2019 - present (Expected)
+- name: 
   logo: /assets/images/badges/usc.png
-  position: M.S. in Spatial Data Science
-  date: Aug. 2023 - May. 2025
-- name: Nanjing Audit University
+  position: 
+  date: 
+- name: 
   logo: /assets/images/badges/NAU.png
-  position: B.Econ. in Finance
-  date: Sep. 2018 - Jun. 2022
+  position: 
+  date: 
 
-experience:
-- name: Monid, Inc.
+summer programs:
+- name: Penn Management & Technology Summer Institute (M&TSI)
   logo: /assets/images/badges/monid.png
-  position: Founding GTM/Scientist
-  date: Aug. 2026 - Present
+  position: Engineering / Business
+  date: Jul. 2026 
 
-- name: Texas A&M University
+- name: Alfred University 
   logo: /assets/images/badges/Texas_A&M_University_seal.svg
-  position: Graduate Research Assistant - GEAR Lab & Google
-  date: Aug. 2025 - Present
+  position: Astronomy Academic Institute
+  date: Jul. 2025 
 
-- name: The Hong Kong University of Science and Technology (Guangzhou)
+- name: Nanjing University (Guangzhou)
   logo: /assets/images/badges/UST.svg.png
-  position: Research Assistant - AI4City Lab
-  date: Jun. 2024 - Sep. 2025
+  position: CubeSat Lab Summer Research Program
+  date: Jun. 2025
 
-- name: University of Southern California
+- name: The Iowa Young Writers' Studio
   logo: /assets/images/badges/usc.png
-  position: Research Assistant - Spatial Sciences Institute
-  date: Sep. 2023 - May. 2025
+  position: Creative Writing
+  date: Jun. 2025
 
-- name: Harvard University
+- name: Penn Engineering Summer Academy (ESAP) 
   logo: /assets/images/badges/Harvard.png
-  position: Research Assistant - Spatial Data Lab
-  date: May. 2024 - Sep. 2024
+  position: Computer Science
+  date: Jul. 2024
 
 - name: City of Hope
   logo: /assets/images/badges/COH.png
@@ -129,15 +129,15 @@ experience:
   position: Research Assistant
   date: Sep. 2023 - Aug. 2024
 
-- name: NetEase Youdao
-  logo: /assets/images/badges/youdaojfif.jfif
-  position: Data Analyst Intern
-  date: Jan. 2023 - Apr. 2023
+- name: 
+  logo: 
+  position: 
+  date: 
 
-- name: Nanjing Audit University
-  logo: /assets/images/badges/NAU.png
-  position: Research Assistant
-  date: Sep. 2019 - May. 2021
+- name: 
+  logo: 
+  position: 
+  date: 
 
 
 awards:
