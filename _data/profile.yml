@@ -85,15 +85,15 @@ education:
   position: 
   date: Aug. 2019 - present (Expected)
 - name: 
-  logo: /assets/images/badges/usc.png
+  logo: 
   position: 
   date: 
 - name: 
-  logo: /assets/images/badges/NAU.png
+  logo: 
   position: 
   date: 
 
-summer programs:
+experience:
 - name: Penn Management & Technology Summer Institute (M&TSI)
   logo: /assets/images/badges/monid.png
   position: Engineering / Business
