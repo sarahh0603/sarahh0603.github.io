@@ -82,12 +82,12 @@ experience:
   date: Jul.2026 
 
 - name: Alfred University 
-  logo: 
+  logo: /assets/images/badges/alfred.png
   position: Astronomy Academic Institute
   date: Jul.2025 
 
 - name: Nanjing University 
-  logo: 
+  logo: /assets/images/badges/Nanjing.png
   position: CubeSat Lab Summer Research Program
   date: Jun.2025
 
@@ -97,7 +97,7 @@ experience:
   date: Jun.2025
 
 - name: Penn Engineering Summer Academy (ESAP) 
-  logo: 
+  logo: /assets/images/badges/Upenn.png 
   position: Computer Science
   date: Jul.2024
 
