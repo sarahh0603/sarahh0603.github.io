@@ -41,17 +41,15 @@ short_bio: >-
   </p>
 
   <p>
-    At the University of Pennsylvania’s Management & Technology Summer Institute (M&TSI) in 2026, I co-developed Strabeaver, a vision-therapy game prototype for children with strabismus. I also explored technology entrepreneurship through the 2025 Conrad Challenge, serving as COO and CFO of a team developing a drone-swarm approach to forest-fire monitoring and prediction. Our project earned a Gold Medal in Energy & Environment at Conrad Challenge China and the Power Pitch Award (Second Place) at the global competition.    Outside the lab, I work as a <strong>Founding GTM/Scientist</strong> at <a href="https://monid.ai" target="_blank">Monid</a>,
-    where I build geodemographic segmentation and spatial analyses of user acquisition. 
-    To share my research with younger readers, I wrote The Planet Hunter’s Helper: How a Computer Learned to Find New Worlds, published on Amazon in English, Spanish, and Chinese. Drawing on my exoplanet research, the book introduces children to astronomy and machine learning through storytelling. Writing and translating it brought together my interests in science, languages, and making complex ideas approachable.
-  </p>
+    At the University of Pennsylvania’s Management & Technology Summer Institute (M&TSI) in 2026, I co-developed Strabeaver, a vision-therapy game prototype for children with strabismus. I also explored technology entrepreneurship through the 2025 Conrad Challenge, serving as COO and CFO of a team developing a drone-swarm approach to forest-fire monitoring and prediction. Our project earned a Gold Medal in Energy & Environment at Conrad Challenge China and the Power Pitch Award (Second Place) at the global competition. 
+     
+    To share my research with younger readers, I wrote <a href="https://a.co/d/08kVdcwX/" target="_blank">The Planet Hunter’s Helper: How a Computer Learned to Find New Worlds</a>, published on Amazon in English, Spanish, and Chinese. Drawing on my exoplanet research, the book introduces children to astronomy and machine learning through storytelling. Writing and translating it brought together my interests in science, languages, and making complex ideas approachable.
+    Beyond my own projects, I serve as President of the Conrad China Alumni Leadership Council, connecting younger teams with mentors. At school, I founded the Astronomy Club and serve as Vice President of the Competitive Computing Club, teaching astronomy and mentoring younger programmers. My outreach also includes astronomy education at Lenghu and English-language reading sessions for local elementary school students  </p>
 
   <p>
     <i class="fa-solid fa-rectangle-ad" style="color: #d60000;"></i>
-    <span style="color: #d60000;">I am looking for collaborators and interns</span> 
-    interested in GeoAI, Spatial Analysis, and their applications in urban science and human-environment interaction in 3D urban space. 
-    My goal is to develop novel tools, algorithms, and methodologies to empower future researchers in exploring Urban Science and 
-    understanding the dynamic relationship between humans and their environments. If you are interested in collaborating, 
+    I welcome opportunities to connect with others interested in <span style="color: #d60000;">astronomy, AI, student innovation, and science education</span>. 
+    If you are interested in collaborating, 
     please feel free to reach out via email or WeChat.
   </p>
 
@@ -63,8 +61,8 @@ portrait_caption: >-
 
 education:
 - name: Shanghai American School
-  logo: /assets/images/badges/Texas_A&M_University_seal.svg
-  dept: G12             Aug.2019 - present
+  logo: /assets/images/badges/sas.png
+  dept:                    Aug.2019 - present
   position: 
   date:  
 - name: 
