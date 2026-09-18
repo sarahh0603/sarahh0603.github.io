@@ -63,7 +63,7 @@ portrait_caption: >-
 education:
 - name: Shanghai American School
   logo: /assets/images/badges/sas.png
-  dept:                    Aug.2019 - present
+  dept: Aug.2019 - present
   position: 
   date:  
 - name: 
@@ -77,29 +77,29 @@ education:
 
 experience:
 - name: Penn Management & Technology Summer Institute (M&TSI)
-  logo: /assets/images/badges/Upenn.png  
+  logo: /assets/images/badges/sas.png  
   position: Engineering / Business
-  date: Jul. 2026 
+  date: Jul.2026 
 
 - name: Alfred University 
   logo: 
   position: Astronomy Academic Institute
-  date: Jul. 2025 
+  date: Jul.2025 
 
 - name: Nanjing University 
   logo: 
   position: CubeSat Lab Summer Research Program
-  date: Jun. 2025
+  date: Jun.2025
 
 - name: The Iowa Young Writers' Studio
   logo: 
   position: Creative Writing
-  date: Jun. 2025
+  date: Jun.2025
 
 - name: Penn Engineering Summer Academy (ESAP) 
   logo: 
   position: Computer Science
-  date: Jul. 2024
+  date: Jul.2024
 
 - name: 
   logo: 
