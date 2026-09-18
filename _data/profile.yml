@@ -77,27 +77,27 @@ education:
 
 experience:
 - name: Penn Management & Technology Summer Institute (M&TSI)
-  logo: /assets/images/badges
+  logo: 
   position: Engineering / Business
   date: Jul. 2026 
 
 - name: Alfred University 
-  logo: /assets/images/badges/
+  logo: 
   position: Astronomy Academic Institute
   date: Jul. 2025 
 
 - name: Nanjing University 
-  logo: /assets/images/badges
+  logo: 
   position: CubeSat Lab Summer Research Program
   date: Jun. 2025
 
 - name: The Iowa Young Writers' Studio
-  logo: /assets/images/badges/usc.png
+  logo: 
   position: Creative Writing
   date: Jun. 2025
 
 - name: Penn Engineering Summer Academy (ESAP) 
-  logo: /assets/images/badges
+  logo: 
   position: Computer Science
   date: Jul. 2024
 
