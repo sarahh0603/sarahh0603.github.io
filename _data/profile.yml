@@ -3,7 +3,7 @@ secondary_name: "Huang"
 navbar_name: "Homepage"
 
 positions:
-- logo: /assets/images/badges/SAS logo.jpg  # Logo is optional
+- logo: /assets/images/badges/sas.png  # Logo is optional
   name: Student
 # - name: 
 
