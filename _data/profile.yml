@@ -77,17 +77,17 @@ education:
 
 experience:
 - name: Penn Management & Technology Summer Institute (M&TSI)
-  logo: /assets/images/badges/monid.png
+  logo: /assets/images/badges
   position: Engineering / Business
   date: Jul. 2026 
 
 - name: Alfred University 
-  logo: /assets/images/badges/Texas_A&M_University_seal.svg
+  logo: /assets/images/badges/
   position: Astronomy Academic Institute
   date: Jul. 2025 
 
 - name: Nanjing University 
-  logo: /assets/images/badges/UST.svg.png
+  logo: /assets/images/badges
   position: CubeSat Lab Summer Research Program
   date: Jun. 2025
 
@@ -97,7 +97,7 @@ experience:
   date: Jun. 2025
 
 - name: Penn Engineering Summer Academy (ESAP) 
-  logo: /assets/images/badges/Harvard.png
+  logo: /assets/images/badges
   position: Computer Science
   date: Jul. 2024
 
@@ -123,37 +123,37 @@ experience:
 
 
 awards:
-- name: Doctoral Student Research, Travel & Professional Development Award ($1,000)
-  date: Apr. 2026
-- name: AAG Cartography and Mapping Specialty Group Session Funding Award ($202)
-  date: Apr. 2026
-- name: Google Cloud Research Credits ($1,000)
-  date: Feb. 2026
-- name: AAG International Geographic Information Fund ($1,200)
-  date: Feb. 2026
-- name: AAG AGSG Annual Meeting Award ($202)
-  date: Feb. 2026
-- name: TAMU Lechner Graduate Scholarship ($1,000)
-  date: Aug. 2025
-- name: TAMU Dean's Doctoral Fellowship ($40,000)
-  date: Aug. 2025
-- name: Lifetime Membership, Nu Theta Chapter, Gamma Theta Upsilon
-  date: May. 2025
-- name: AAG GISS Student Paper Competition Honorable Mention ($300)
+- name: Finalist, Physics & Astronomy Category, International Science & Engineering Fair
+  date: May. 2026
+- name: First Place, Australian Science & Engineering Fair
+  date: Nov. 2025
+- name: National Gold Award (D2) Top Scorer Award, Physics Bowl
+  date: 2026
+- name: Power Pitch Award (Second Place), Global Conrad Challenge
+  date: Apr. 2025
+- name: Gold Medal Award (Energy & Environment), Conrad Challenge China
   date: Mar. 2025
-- name: EIP Student of the Year Award ($500)
-  date: Mar. 2025
-- name: LA GeoSpatial Summit - Most Suitably Applied Analysis Methodology Award
-  date: Feb. 2025
-- name: Fall GSG Professional Development Fund ($500)
-  date: Feb. 2025
-- name: Finalist, GISS Student Honors Paper Competition
-  date: Dec. 2024
-- name: LA GeoSpatial Summit - Story Map Participation Award
-  date: Feb. 2024
-- name: Bronze Medal, Kaggle Child Mind Institute - Detect Sleep States
-  date: Jan. 2024
-- name: Outstanding Graduate Award (Top 5%), Nanjing Audit University
-  date: May. 2022
-- name: Provincial Champion of The World Mandarin Debating Championship
-  date: Sep. 2020
+- name: Second Prize (Computer Science), S.-T. Yau High School Science Award
+  date: Sep. 2024
+- name: Silver Medal, International Greenwich Olympia
+  date: Jun. 2023
+- name: 
+  date: 
+- name: 
+  date: 
+- name: 
+  date: 
+- name: 
+  date: 
+- name: 
+  date: 
+- name: 
+  date: 
+- name: 
+  date: 
+- name: 
+  date: 
+- name: 
+  date: 
+- name: 
+  date: 
