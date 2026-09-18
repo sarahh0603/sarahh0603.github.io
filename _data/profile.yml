@@ -13,7 +13,7 @@ cv_link: /assets/CV/cv.pdf  #IDK
 gscholar: https://scholar.google.com/citations?user=fh141jAAAAAJ&hl=en  # Google Scholar ID
 github: sarahh0603
 twitter:   # Do not include the '@' symbol
-wechat_qrcode: /assets/images/etc/wechat.jpg
+wechat_qrcode: /assets/images/etc/wechat_sarah.jpg
 wechat_prompt: >- 
   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past), and your <strong>reason</strong> for adding me on WeChat. Thanks!
 linkedin: https://www.linkedin.com/in/sarah-huang-9a2319413/
@@ -45,7 +45,7 @@ short_bio: >-
   </p>   
   <p>  
     To share my research with younger readers, I wrote <a href="https://a.co/d/08kVdcwX/" target="_blank">The Planet Hunter’s Helper: How a Computer Learned to Find New Worlds</a>, published on Amazon in English, Spanish, and Chinese. Drawing on my exoplanet research, the book introduces children to astronomy and machine learning through storytelling. Writing and translating it brought together my interests in science, languages, and making complex ideas approachable.
-    Beyond my own projects, I serve as President of the Conrad China Alumni Leadership Council, connecting younger teams with mentors. At school, I founded the Astronomy Club and serve as Vice President of the Competitive Computing Club, teaching astronomy and mentoring younger programmers. My outreach also includes astronomy education at Lenghu and English-language reading sessions for local elementary school students  </p>
+    Beyond my own projects, I serve as President of the Conrad China Alumni Leadership Council, connecting younger teams with mentors. At school, I founded the Astronomy Club and serve as Vice President of the Competitive Computing Club, teaching astronomy and mentoring younger programmers. My outreach also includes astronomy education at Lenghu and English-language reading sessions for local elementary school students.  </p>
 
   <p>
     <i class="fa-solid fa-rectangle-ad" style="color: #d60000;"></i>
