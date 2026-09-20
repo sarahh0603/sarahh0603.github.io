@@ -13,7 +13,7 @@ Read the following key files to fully understand the site before making any chan
 9. `E:/Jasper0122.github.io/_includes/widgets/project_item.html` — How projects are rendered
 
 After reading, summarize to the user:
-- What the site is (Jasper Li's academic portfolio — GIS/GeoAI PhD at Texas A&M)
+- What the site is (Sarah Huang's academic portfolio)
 - The key files to edit for common tasks:
   - **Personal info / bio / photo**: `_data/profile.yml`
   - **Research interest image**: `assets/images/photos/interst.png` (referenced in `_data/profile.yml`)
