@@ -8,7 +8,7 @@ date: 2025-01-13 00:01:00 +0800
     <h2>More about me!</h2>
     <hr />
     <p>
-        <code>Beyond Research</code>, I enjoy solving linguistic puzzles, learning languages, writing, playing the cello, tennis, and skiing. 
+        <code>Outside Research</code>, I enjoy solving linguistic puzzles, learning languages, writing, playing the cello, tennis, and skiing. 
 
     </p>
     <p>
