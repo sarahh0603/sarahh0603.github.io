@@ -1,6 +1,6 @@
 ---
 title: >-
-  Selected as a Generative AI Student Ambassador (2026-2027 cohort) at the TAMU Institute of Data Science (TAMIDS).
+  Selected as a National Presedent of Conrad Challenge China Alumni Leadership Council (2025-2026).
 
-date: 2026-07-15 10:00:00 -0800
+date: 2025-12-13 10:00:00 -0800
 ---
