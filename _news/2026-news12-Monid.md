@@ -1,6 +1,6 @@
 ---
 title: >-
-  Joined <a href="https://monid.ai" target="_blank">Monid</a> as Founding GTM/Scientist, building geodemographic segmentation and spatial analysis of user acquisition.
+  Participated in the <a href="https://www.youtube.com/watch?v=6wX5NeZ8Qpc">Regeneron ISEF 2026 </a> in the category of Physics and Astronomy.
 
-date: 2026-08-20 10:00:00 -0800
+date: 2026-05-09 10:00:00 -0800
 ---
