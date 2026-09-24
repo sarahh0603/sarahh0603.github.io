@@ -1,7 +1,7 @@
 ---
 title:          "BuildingMultiView: Powering Multi-Scale Building Characterization with Large Language Models and Multi-Perspective Imagery"
 date:           2025-02-01 00:01:00 +0800
-selected:       true
+selected:       false
 #pub:            ""
 #pub_pre:        ""
 pub_post:       'International Journal of Applied Earth Observation and Geoinformation (JAG), 146, 105034,'
