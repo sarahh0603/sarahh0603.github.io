@@ -1,7 +1,7 @@
 ---
 title: >-
-  Launched AutoApplyClaw — search jobs, generate AI-tailored resumes & cover letters, and auto-fill every application form with one click. Built with React, FastAPI, Claude API, and a Chrome extension.
-  <a href="https://autoapplyclaw.com" target="_blank">Try it free <i class="fas fa-angle-double-right"></i></a>
+  Participated in <a href="https://www.youtube.com/watch?v=6wX5NeZ8Qpc">Conrad Challenge Innovation Summit Global 2025 </a> in the category of Energy & Environment at Space Center Houston.
+  <a href="https://conrad.spacecenter.org/2025-winners/" target="_blank">Try it free <i class="fas fa-angle-double-right"></i></a>
 
-date: 2025-03-13 10:00:00 -0800
+date: 2025-04-23 10:00:00 -0800
 ---
