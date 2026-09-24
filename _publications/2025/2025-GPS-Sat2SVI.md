@@ -19,6 +19,6 @@ authors:
 
 links:
   Paper: https://doi.org/10.1016/j.isprsjprs.2026.03.049
-  Code: https://github.com/ai4city-hkust/GeoIdentity-Sat2Street
+  
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
