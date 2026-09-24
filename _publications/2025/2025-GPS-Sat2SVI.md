@@ -13,11 +13,10 @@ pub_date:       "2025"
 cover:  assets/images/covers/2025-Sat2SVI.png
 authors:
   - Sarah Huang
-  - Yinggang Sun#
-  - Xiangzhan Yu#
+  - Yinggang Sun
+  - Xiangzhan Yu
 
 links:
   Paper: https://www.mdpi.com/2078-2489/16/12/1045
   
-#  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
