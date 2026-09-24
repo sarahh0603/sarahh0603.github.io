@@ -20,5 +20,5 @@ authors:
 
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S156984322600258X
-#  Code: https://github.com/Jasper0122/BuildingView
+
 ---
