@@ -3,7 +3,7 @@ title: "Identification of Brain MRI lesions Using Uncertainty-aware Deep Learnin
 date: 2024-10-25 00:01:00 +0800
 description: >-
   <p>
-    <strong>Identification of Brain MRI lesions Using Uncertainty-aware Deep Learning Trained on Healthy Brain Data</strong>
+    <strong><span style="color: #006400;">Identification of Brain MRI lesions Using Uncertainty-aware Deep Learning Trained on Healthy Brain Data</span></strong>
   </p>
   Lack of patient data is a potential limitation to current DL models on MRI as they require large amounts of patient data for all types of diseases, leading to privacyconcerns. My goal is to develop a reliable automatic lesion identification model for MRI without requiring patient data.  
 
