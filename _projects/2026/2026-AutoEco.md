@@ -2,7 +2,8 @@
 title: "A Novel Photometry-based Pipeline to Identify Maunder Minimum-like Low Activity Stars through Kepler Data"
 date: 2026-04-29 00:01:00 +0800
 description: >-
-  <p><strong><span style="color: #006400;">A Novel Photometry-based Pipeline to Identify Maunder Minimum-like Low Activity Stars through Kepler Data</span></strong></p>
+  <p><strong><span style="color: #006400;">A Novel Photometry-based Pipeline to Identify Maunder Minimum-like Low Activity Stars through Kepler Data</span></strong>
+  </p>
   This paper analyzes data from the Kepler mission and the LAMOST Telescope to identify low-activity
 stars that are likely in a Maunder Minimum (MM) phase and develops criteria for their selection. Using
 light curve data from 3,120 G-type solar-like stars (magnitude < 13.0, log G > 4.0) selected from the
