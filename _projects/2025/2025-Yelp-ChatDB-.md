@@ -1,12 +1,10 @@
 ---
-title: "Yelp ChatDB — Natural Language Restaurant Search System"
+title: "Intelligent Drone Swarm for Wildfire Monitoring"
 date: 2025-02-28 00:01:00 +0800
 selected: false  # 是否高亮显示 (true/false)
 
 description: >-
-  Yelp ChatDB is a full-stack chatbot application that enables users to search for restaurants and manage personal wishlists using natural language queries. The backend leverages GPT for intent parsing, MongoDB for caching and data storage, and the Yelp Fusion API for real-time restaurant data. The frontend is a lightweight React-like interface that supports conversational search.
+  FireAIDSS, an intelligent drone swarm powered by cutting-edge AI technology. It is the first ever one-stop solution that enables firefighters to see invisible threats of wildfires, such as ember attacks, in real time. The system not only provides superior accuracy and efficiency compared to current competitors at a lower cost, but also a disruptive technology for 3D wildfire spread prediction, transforming invisible threats into actionable intelligence. FireAIDSS is set to revolutionize the forest fire prevention DICT market, which is predicted to expand rapidly as more organizations in public and private sectors join us to explore new ways to prepare for, monitor, and respond to environmental disasters for decades to come..
 cover: /assets/images/covers/yelp.png
-links:
-  Code: https://github.com/Jasper0122/yelp-chatdb-demo
----
 
+---
