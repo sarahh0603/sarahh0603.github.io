@@ -15,7 +15,7 @@ authors:
   - Sarah Huang
   - Chen Jiang
 
-under review
+
 links:
   Paper: https://arxiv.org/abs/2512.00967
 
