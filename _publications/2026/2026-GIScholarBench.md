@@ -1,5 +1,5 @@
 ---
-title:          "The Planet Hunter’s Helper: How a Computer Learned to Find New Worlds"
+title:          "<strong>The Planet Hunter’s Helper: How a Computer Learned to Find New Worlds</strong>"
 date:           2026-08-02 00:01:00 +0800
 selected:       true
 #pub:            ""
