@@ -1,5 +1,5 @@
 ---
-title:          "Machine Learning for Exoplanet Discovery: Validating TESS Candidates and Identifying Planets in the Habitable Zone"
+title:          "<strong>Machine Learning for Exoplanet Discovery: Validating TESS Candidates and Identifying Planets in the Habitable Zone</strong>"
 date:           2025-11-30 00:01:00 +0800
 selected:       true
 #pub:            ""
