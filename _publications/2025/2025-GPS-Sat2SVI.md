@@ -1,5 +1,5 @@
 ---
-title:          "SP-TeachLLM: An LLM-Driven Framework for Personalized and Adaptive Programming Education"
+title:          "<strong>SP-TeachLLM: An LLM-Driven Framework for Personalized and Adaptive Programming Education</strong>"
 date:           2025-12-01 00:01:00 +0800
 selected:       true
 #pub:            ""
