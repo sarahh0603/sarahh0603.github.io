@@ -8,7 +8,6 @@ description: >-
   This repository provides a step-by-step guide on downloading POI data and converting it from GeoJSON to Shapefile (SHP) for use in ArcGIS Pro, QGIS, and other GIS applications.
 
 cover: /assets/images/covers/Foursquare.png
-links:
-  Code: https://github.com/Jasper0122/Foursquare2ArcGIS
+
 ---
 
