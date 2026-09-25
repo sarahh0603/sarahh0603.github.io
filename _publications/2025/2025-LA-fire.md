@@ -3,7 +3,7 @@ title:          "Machine Learning for Exoplanet Discovery: Validating TESS Candi
 date:           2025-11-30 00:01:00 +0800
 selected:       true
 #pub:            ""
-#pub_pre:        ""
+#pub_pre:        "under review"
 pub_post:       'Advances in Space Research'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
