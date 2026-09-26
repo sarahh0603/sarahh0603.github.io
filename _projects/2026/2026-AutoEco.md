@@ -1,6 +1,6 @@
 ---
 title: "Discover Maunder Minimum Candidates in Kepler Data"
-date: 2026-04-29 00:01:00 +0800
+date: 2026-08-29 00:01:00 +0800
 selected: true
 
 description: >-
