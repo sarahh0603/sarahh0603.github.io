@@ -1,5 +1,5 @@
 ---
-title: "A Novel Photometry-based Pipeline to Identify Maunder Minimum-like Low Activity Stars through Kepler Data"
+title: "Discover Maunder Minimum Candidates in Kepler Data"
 date: 2026-04-29 00:01:00 +0800
 selected: true
 
