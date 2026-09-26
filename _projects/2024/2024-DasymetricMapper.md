@@ -1,6 +1,8 @@
 ---
 title: "Identification of Brain MRI lesions Using Uncertainty-aware Deep Learning Trained on Healthy Brain Data"
 date: 2024-10-25 00:01:00 +0800
+selected: true
+
 description: >-
   <p>
     <strong><span style="color: #006400;">Identification of Brain MRI lesions Using Uncertainty-aware Deep Learning Trained on Healthy Brain Data</span></strong>
