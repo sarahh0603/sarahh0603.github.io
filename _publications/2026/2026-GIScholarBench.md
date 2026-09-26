@@ -16,7 +16,7 @@ authors:
 
 
 links:
-  Book in English: https://www.amazon.com/dp/B0HCGTPQ7R?lv=shuf&bestFormat=true&social_share=cm_sw_r_ffobk_cp_ud_dp_XRPTBMN7GAXKKJESQ9TC&channelId=704&ref_=cm_sw_r_ffobk_cp_ud_dp_XRPTBMN7GAXKKJESQ9TC&plpRedirect=mhFallback
-  Book in Spanish: https://www.amazon.com/dp/B0H27RN166?lv=shuf&bestFormat=true&social_share=cm_sw_r_ffobk_cp_ud_dp_R4HSFFG4RFGH5ZN5TSWT_1&channelId=704&ref_=cm_sw_r_ffobk_cp_ud_dp_R4HSFFG4RFGH5ZN5TSWT_1&plpRedirect=mhFallback
-  Book in Chinese: https://www.amazon.com/dp/B0HCLXPN1L?lv=shuf&bestFormat=true&social_share=cm_sw_r_ffobk_cp_ud_dp_SDSKEJ94424DNWQZ61S5&channelId=704&ref_=cm_sw_r_ffobk_cp_ud_dp_SDSKEJ94424DNWQZ61S5&plpRedirect=mhFallback
+  English ver.: https://www.amazon.com/dp/B0HCGTPQ7R?lv=shuf&bestFormat=true&social_share=cm_sw_r_ffobk_cp_ud_dp_XRPTBMN7GAXKKJESQ9TC&channelId=704&ref_=cm_sw_r_ffobk_cp_ud_dp_XRPTBMN7GAXKKJESQ9TC&plpRedirect=mhFallback
+  Spanish ver.: https://www.amazon.com/dp/B0H27RN166?lv=shuf&bestFormat=true&social_share=cm_sw_r_ffobk_cp_ud_dp_R4HSFFG4RFGH5ZN5TSWT_1&channelId=704&ref_=cm_sw_r_ffobk_cp_ud_dp_R4HSFFG4RFGH5ZN5TSWT_1&plpRedirect=mhFallback
+  Chinese ver.: https://www.amazon.com/dp/B0HCLXPN1L?lv=shuf&bestFormat=true&social_share=cm_sw_r_ffobk_cp_ud_dp_SDSKEJ94424DNWQZ61S5&channelId=704&ref_=cm_sw_r_ffobk_cp_ud_dp_SDSKEJ94424DNWQZ61S5&plpRedirect=mhFallback
 ---
