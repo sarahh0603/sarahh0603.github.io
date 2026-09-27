@@ -4,6 +4,8 @@ date: 2026-07-20 00:01:00 +0800
 selected: true
 
 description: >-
-  Strabeaver is a full-stack job application automation platform. Search jobs from LinkedIn & Indeed, generate AI-tailored resumes and cover letters for each position using Claude, then auto-fill every application form with the Chrome extension — including open-ended questions answered from your actual CV. Built with React, FastAPI, Claude API, Tectonic (LaTeX compiler), and a Chrome Manifest V3 extension. Live at autoapplyclaw.com.
+  <P><strong><type #006400>Strabeaver: Eye-Tracking Games for Vision Therapy</strong>
+  </type>p>    
+Strabeaver is a vision-therapy prototype to make eye exercises more engaging for children with strabismus. The system combines a Raspberry Pi 4, an 8MP camera, and AI-based gaze tracking to translate eye movements into game controls. It also monitors head tilt to flag compensatory movements and records performance for parent progress reports. My contribution focused on game design and programming. Using Python and Pygame, with support from Claude Code, I designed and developed three interactive games also created a beaver-inspired robot character that children could control with their eyes. Together, our team delivered a functional prototype featuring six exercises, a promotional video, and a business plan, bringing computer vision, visual design, and playful interaction into one platform.
 cover: /assets/images/covers/resumeopenclaw.png
 ---
