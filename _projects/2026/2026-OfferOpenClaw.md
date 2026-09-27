@@ -1,6 +1,6 @@
 ---
 title: "Desmos 2025 Art Contest"
-date: 2026-08-01 00:01:00 +0800
+date: 2025-02-01 00:01:00 +0800
 selected: true
 
 description: >-
