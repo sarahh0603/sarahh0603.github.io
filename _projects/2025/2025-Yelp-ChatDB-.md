@@ -1,6 +1,6 @@
 ---
 title: "Intelligent Drone Swarm for Wildfire Monitoring"
-date: 2025-02-28 00:01:00 +0800
+date: 2025-03-28 00:01:00 +0800
 selected: true
 
 description: >-
