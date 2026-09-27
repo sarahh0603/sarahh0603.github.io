@@ -1,7 +1,7 @@
 ---
 title: "Strabeaver"
 date: 2026-07-20 00:01:00 +0800
-selected: true
+selected: false
 
 description: >-
 Eye-Tracking Games for Vision Therapy 
