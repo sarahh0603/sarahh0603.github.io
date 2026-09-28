@@ -1,5 +1,5 @@
 ---
-title: "Universe Expansion class to middle school"
+title: "Astronomy after school classes for middle schoolers"
 date: 2025-11-01 00:01:00 +0800
 selected: true
 
