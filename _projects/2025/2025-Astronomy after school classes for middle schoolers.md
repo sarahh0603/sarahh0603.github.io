@@ -8,6 +8,6 @@ description: >-
   <p>Join us on a journey through the cosmos as we explore the incredible space probes that have expanded humanity's understanding of our solar system and beyond. These robotic explorers are our eyes and ears in the vast expanse of space, revealing secrets of distant worlds.
 
 links: 
-  Paper: /assets/images/cv/Universe-Expansion-possible-ends.pdf #IDK
+  Paper: /assets/CV/Universe-Expansion-possible-ends.pdf #IDK
 cover: /assets/images/covers/2025-AAG-Globe.png
 ---
